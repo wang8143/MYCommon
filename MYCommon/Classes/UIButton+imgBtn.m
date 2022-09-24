@@ -8,5 +8,7 @@
 #import "UIButton+imgBtn.h"
 
 @implementation UIButton (imgBtn)
-
+-(void)imageTheButton{
+    NSLog(@" test ImageButton");
+}
 @end
